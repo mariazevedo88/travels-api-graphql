@@ -1,1 +1,1 @@
-# financial-api-graphql
+# travels-api-graphql
